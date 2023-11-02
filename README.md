@@ -2,7 +2,8 @@
 
 Script created by @JairoCCIE to check if a Cisco IOS XE device is vulnerable to CVE-2023-20198.
 
-The CVE is detailed in the Cisco Talos advisory https://blog.talosintelligence.com/active-exploitation-of-cisco-ios-xe-software/
+The CVE is detailed in the Cisco Talos advisory 
+https://blog.talosintelligence.com/active-exploitation-of-cisco-ios-xe-software/
 
 ## Ongoing exploitation
 How to verify with a simple curl
